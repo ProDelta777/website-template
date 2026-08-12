@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Hyaluronic Acid",
+    "category": "Humectants",
+    "generalPurpose": "Attracts and binds water to the skin, providing hydration.",
+    "suitableSkinConcerns": ["Dryness", "Dehydration", "Fine lines"],
+    "generalUsageInformation": "Best applied to damp skin. Can be used daily, morning and night.",
+    "possibleIrritationConsiderations": "Generally well-tolerated, but can draw moisture out of the skin in very dry climates if not sealed with an occlusive.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Glycerin",
+    "category": "Humectants",
+    "generalPurpose": "Draws moisture into the skin, improving hydration and barrier function.",
+    "suitableSkinConcerns": ["Dryness", "Dehydration", "Compromised barrier"],
+    "generalUsageInformation": "Commonly found in many skincare products. Safe for daily use.",
+    "possibleIrritationConsiderations": "Very low risk of irritation.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Ceramides",
+    "category": "Barrier-supporting ingredients",
+    "generalPurpose": "Lipids that help form the skin's barrier and retain moisture.",
+    "suitableSkinConcerns": ["Dryness", "Sensitivity", "Compromised barrier"],
+    "generalUsageInformation": "Can be used daily, morning and night.",
+    "possibleIrritationConsiderations": "Very low risk of irritation.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Niacinamide (Vitamin B3)",
+    "category": "Barrier-supporting ingredients",
+    "generalPurpose": "Helps build keratin, improves lipid barrier, and can reduce redness and blotchiness.",
+    "suitableSkinConcerns": ["Visible redness", "Uneven texture", "Oiliness", "Visible pores", "Dark-spot-like areas"],
+    "generalUsageInformation": "Can be used daily, morning and/or night. Concentrations between 2% and 5% are generally effective and well-tolerated.",
+    "possibleIrritationConsiderations": "High concentrations (10%+) may cause irritation or flushing in some individuals.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Salicylic Acid (BHA)",
+    "category": "Exfoliating acids",
+    "generalPurpose": "Oil-soluble acid that penetrates pores to exfoliate dead skin cells and reduce sebum.",
+    "suitableSkinConcerns": ["Oiliness", "Blemish-like areas", "Visible pores", "Uneven texture"],
+    "generalUsageInformation": "Use 1-3 times a week initially, can increase frequency if tolerated. Often found in concentrations of 0.5% to 2%.",
+    "possibleIrritationConsiderations": "Can cause dryness, peeling, or irritation.",
+    "importantWarnings": "Increases sun sensitivity. Use sunscreen.",
+    "beginnersIntroduceGradually": true
+  },
+  {
+    "name": "Glycolic Acid (AHA)",
+    "category": "Exfoliating acids",
+    "generalPurpose": "Water-soluble acid that exfoliates the surface of the skin, improving texture and tone.",
+    "suitableSkinConcerns": ["Uneven texture", "Dark-spot-like areas", "Dullness"],
+    "generalUsageInformation": "Use 1-3 times a week. Often found in concentrations of 5% to 10%.",
+    "possibleIrritationConsiderations": "Can cause stinging, redness, and peeling, especially at higher concentrations or low pH.",
+    "importantWarnings": "Increases sun sensitivity. Daily sunscreen is essential.",
+    "beginnersIntroduceGradually": true
+  },
+  {
+    "name": "Lactic Acid (AHA)",
+    "category": "Exfoliating acids",
+    "generalPurpose": "A gentler water-soluble acid that exfoliates while also providing some hydration.",
+    "suitableSkinConcerns": ["Uneven texture", "Dryness", "Dullness"],
+    "generalUsageInformation": "Can be used 1-3 times a week. Often found in concentrations of 5% to 10%.",
+    "possibleIrritationConsiderations": "Generally gentler than glycolic acid, but can still cause irritation.",
+    "importantWarnings": "Increases sun sensitivity. Daily sunscreen is essential.",
+    "beginnersIntroduceGradually": true
+  },
+  {
+    "name": "Retinol",
+    "category": "Retinoid-related ingredients",
+    "generalPurpose": "Promotes cell turnover and collagen production, improving texture and signs of aging.",
+    "suitableSkinConcerns": ["Fine lines", "Uneven texture", "Dark-spot-like areas", "Blemish-like areas"],
+    "generalUsageInformation": "Use only at night. Start with a low concentration.",
+    "possibleIrritationConsiderations": "High potential for dryness, redness, and peeling (retinization process).",
+    "importantWarnings": "Do not use with other strong exfoliants in the same routine initially. Increases sun sensitivity. Daily sunscreen is mandatory. Not recommended during pregnancy.",
+    "beginnersIntroduceGradually": true
+  },
+  {
+    "name": "Vitamin C (Ascorbic Acid)",
+    "category": "Antioxidants",
+    "generalPurpose": "Antioxidant that helps protect against free radicals and can brighten skin tone.",
+    "suitableSkinConcerns": ["Dullness", "Dark-spot-like areas", "Uneven tone"],
+    "generalUsageInformation": "Often used in the morning under sunscreen.",
+    "possibleIrritationConsiderations": "Pure ascorbic acid requires a low pH to be effective, which can cause stinging or irritation in sensitive skin.",
+    "importantWarnings": "Can oxidize quickly; store properly.",
+    "beginnersIntroduceGradually": true
+  },
+  {
+    "name": "Centella Asiatica (Cica)",
+    "category": "Soothing ingredients",
+    "generalPurpose": "Known for its soothing and wound-healing properties.",
+    "suitableSkinConcerns": ["Visible redness", "Sensitivity", "Compromised barrier"],
+    "generalUsageInformation": "Safe for daily use, morning and night.",
+    "possibleIrritationConsiderations": "Very low risk of irritation.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Squalane",
+    "category": "Emollients",
+    "generalPurpose": "A lightweight oil that mimics skin's natural sebum, providing moisture without feeling heavy.",
+    "suitableSkinConcerns": ["Dryness", "Compromised barrier", "Uneven texture"],
+    "generalUsageInformation": "Can be used daily, morning and night.",
+    "possibleIrritationConsiderations": "Very low risk of irritation.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Petrolatum",
+    "category": "Occlusives",
+    "generalPurpose": "Creates a physical barrier on the skin to prevent transepidermal water loss (TEWL).",
+    "suitableSkinConcerns": ["Severe dryness", "Compromised barrier"],
+    "generalUsageInformation": "Typically used as the last step in a nighttime routine.",
+    "possibleIrritationConsiderations": "May feel too heavy for oily or blemish-prone skin.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Titanium Dioxide",
+    "category": "Sunscreen filters",
+    "generalPurpose": "Mineral/physical UV filter that reflects and scatters UV rays.",
+    "suitableSkinConcerns": ["Sun protection", "Sensitivity"],
+    "generalUsageInformation": "Apply generously as the last step in a morning routine.",
+    "possibleIrritationConsiderations": "Generally well-tolerated by sensitive skin. Can leave a white cast.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  },
+  {
+    "name": "Zinc Oxide",
+    "category": "Sunscreen filters",
+    "generalPurpose": "Mineral/physical UV filter offering broad-spectrum protection; also has soothing properties.",
+    "suitableSkinConcerns": ["Sun protection", "Sensitivity", "Visible redness"],
+    "generalUsageInformation": "Apply generously as the last step in a morning routine.",
+    "possibleIrritationConsiderations": "Generally well-tolerated. Can leave a white cast.",
+    "importantWarnings": "None",
+    "beginnersIntroduceGradually": false
+  }
+]
