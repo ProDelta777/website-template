@@ -21,3 +21,10 @@ build/
 app/build/
 build/
 .gradle/
+node_modules/
+online-compiler/backend/node_modules/
+node_modules/
+**/*/node_modules/*
+**node_modules**
+online-compiler/frontend/node_modules/
+online-compiler/
