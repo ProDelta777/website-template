@@ -1,7 +1,7 @@
 import urllib.request
 import time
 
-filepath = "./app/build/outputs/apk/debug/app-debug.apk"
+filepath = "./release/app-debug.apk"
 bin_id = f"skinlens-{int(time.time())}"
 filename = "app-debug.apk"
 url = f"https://filebin.net/{bin_id}/{filename}"
