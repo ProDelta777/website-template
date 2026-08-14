@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">SkinLens</string>
-    <style name="Theme.SkinLens" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
