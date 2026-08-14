@@ -8,11 +8,6 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
 
-    <!-- Optional ML Kit features to download models offline -->
-    <meta-data
-        android:name="com.google.mlkit.vision.DEPENDENCIES"
-        android:value="face,ocr" />
-
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -23,6 +18,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SkinLens"
         tools:targetApi="31">
+
+        <!-- Optional ML Kit features to download models offline -->
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
+            android:value="face,ocr" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
