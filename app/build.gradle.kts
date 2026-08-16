@@ -10,11 +10,11 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.skinlens"
+        applicationId = "com.skinlens.app"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 3
+        versionName = "1.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -28,6 +28,10 @@ android {
             storePassword = "password"
             keyAlias = "myalias"
             keyPassword = "password"
+            enableV1Signing = true
+            enableV2Signing = true
+            enableV3Signing = true
+            enableV4Signing = true
         }
     }
 
