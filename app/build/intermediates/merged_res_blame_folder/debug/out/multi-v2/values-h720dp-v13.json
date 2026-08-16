@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.skinlens.app-mergeDebugResources-2:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/jules/.gradle/caches/transforms-4/b8d3b3e2ba9b300ab6645502f6a29cb0/transformed/appcompat-1.6.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
